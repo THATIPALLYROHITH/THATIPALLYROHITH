@@ -56,4 +56,6 @@ Focused on becoming a highly capable software engineer specializing in intellige
 Committed to continuous learning, technical depth, and building technology that delivers meaningful impact.
 
 ---
-
+<p align="center">
+  Open to internships, research opportunities, and high-impact engineering collaborations.
+</p>
