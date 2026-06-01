@@ -1,4 +1,4 @@
-<h1 align="center">Roith Thatipally</h1>
+<h1 align="center">Rohith Thatipally</h1>
 
 <p align="center">
   Computer Science Engineer • AI-Focused Developer • Full Stack Builder
